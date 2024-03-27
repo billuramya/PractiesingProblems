@@ -1,0 +1,14 @@
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\bin\Debug\net8.0\PractiesingProblems.exe
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\bin\Debug\net8.0\PractiesingProblems.deps.json
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\bin\Debug\net8.0\PractiesingProblems.runtimeconfig.json
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\bin\Debug\net8.0\PractiesingProblems.dll
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\bin\Debug\net8.0\PractiesingProblems.pdb
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.AssemblyInfo.cs
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.csproj.CoreCompileInputs.cache
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.dll
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\refint\PractiesingProblems.dll
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.pdb
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\PractiesingProblems.genruntimeconfig.cache
+C:\Users\billu\source\repos\PractiesingProblems\PractiesingProblems\obj\Debug\net8.0\ref\PractiesingProblems.dll
